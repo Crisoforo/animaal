@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animaal/static/css/main.c4e69109.chunk.css",
+    "main.js": "/animaal/static/js/main.fca89ab9.chunk.js",
+    "main.js.map": "/animaal/static/js/main.fca89ab9.chunk.js.map",
+    "runtime~main.js": "/animaal/static/js/runtime~main.4a47245c.js",
+    "runtime~main.js.map": "/animaal/static/js/runtime~main.4a47245c.js.map",
+    "static/js/2.ce880dd3.chunk.js": "/animaal/static/js/2.ce880dd3.chunk.js",
+    "static/js/2.ce880dd3.chunk.js.map": "/animaal/static/js/2.ce880dd3.chunk.js.map",
+    "index.html": "/animaal/index.html",
+    "precache-manifest.894a62279657dbf9b46dbe5f7277e1e1.js": "/animaal/precache-manifest.894a62279657dbf9b46dbe5f7277e1e1.js",
+    "service-worker.js": "/animaal/service-worker.js",
+    "static/css/main.c4e69109.chunk.css.map": "/animaal/static/css/main.c4e69109.chunk.css.map"
+  }
+}
