@@ -66,3 +66,11 @@ img{
         display: none;
       }
 }
+
+a{
+    color: black;
+}
+
+ul a:hover{
+    color: rgb(70, 70, 70);
+}

@@ -44,25 +44,17 @@ function App() {
     <div className="cardee">
     <h2>Roster</h2>
       <ul>
-        <li>BOB DAZZLA (US)</li>
-        <li>COLLAPSING SCENERY (US)</li>
-        <li>JACQUES RENAULT (US)</li>
-        <li>JUAN SOTO (MX)</li>
-        <li>JERRY L (MX)</li>
-        <li>ROY JARA (MX)</li>
-        <li>SELF SABOTAGE (MX)</li>
-        <li>PAURRO (MX)</li>
-        <li>OM BEACH (MX)</li>
-        <li>VIDEOCENTRO (MX)</li>
+        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>BOB DAZZLA (US)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>COLLAPSING SCENERY (US)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>JACQUES RENAULT (US)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>JUAN SOTO (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>JERRY L (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>SELF SABOTAGE (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>PAURRO (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>OM BEACH (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>VIDEOCENTRO (MX)</li></a>
       </ul>
-      <img src={aaa} alt='animaal logo'/>
-    </div>
-    <div className="card" id='contact'>
-    <div className='brnd'>
-    <img src={mgnt} width='90%' alt='management'/>
-    </div>
-      <h3>Gerardo A. Lopez Avila</h3>
-      <p>+52 1 (55) 55 09 49 36<br></br>Amsterdam 255,<br></br>Colonia Condesa, <br></br>CDMX</p>
+      <img src={mgnt} width='40%' alt='management'/>
     </div>
     </div>
   );
