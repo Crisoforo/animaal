@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <Navbar brand={ <a href='index.html' className="brand-logo"> <img src={ logo } alt='logo' width='150'/></a>} centerLogo alignLinks="right">
-        <NavItem href="https://www.instagram.com/animaal.tv/?hl=es">
+        <NavItem href="https://www.instagram.com/animaal.tv/">
           Instagram
 </NavItem>
         <NavItem href="#contact">
@@ -44,15 +44,15 @@ function App() {
     <div className="cardee">
     <h2>Roster</h2>
       <ul>
-        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>BOB DAZZLA (US)</li></a>
-        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>COLLAPSING SCENERY (US)</li></a>
-        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>JACQUES RENAULT (US)</li></a>
-        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>JUAN SOTO (MX)</li></a>
-        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>JERRY L (MX)</li></a>
-        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>SELF SABOTAGE (MX)</li></a>
-        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>PAURRO (MX)</li></a>
-        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>OM BEACH (MX)</li></a>
-        <a href="https://www.instagram.com/animaal.tv/?hl=es"><li>VIDEOCENTRO (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/"><li>BOB DAZZLA (US)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/"><li>COLLAPSING SCENERY (US)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/"><li>JACQUES RENAULT (US)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/"><li>JUAN SOTO (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/"><li>JERRY L (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/"><li>SELF SABOTAGE (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/"><li>PAURRO (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/"><li>OM BEACH (MX)</li></a>
+        <a href="https://www.instagram.com/animaal.tv/"><li>VIDEOCENTRO (MX)</li></a>
       </ul>
       <img src={mgnt} width='40%' alt='management'/>
     </div>
