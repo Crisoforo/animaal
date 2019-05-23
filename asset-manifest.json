@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/animaal/static/css/main.50b80ad5.chunk.css",
-    "main.js": "/animaal/static/js/main.3136855e.chunk.js",
-    "main.js.map": "/animaal/static/js/main.3136855e.chunk.js.map",
+    "main.js": "/animaal/static/js/main.0c4e7320.chunk.js",
+    "main.js.map": "/animaal/static/js/main.0c4e7320.chunk.js.map",
     "runtime~main.js": "/animaal/static/js/runtime~main.4a47245c.js",
     "runtime~main.js.map": "/animaal/static/js/runtime~main.4a47245c.js.map",
     "static/js/2.ce880dd3.chunk.js": "/animaal/static/js/2.ce880dd3.chunk.js",
     "static/js/2.ce880dd3.chunk.js.map": "/animaal/static/js/2.ce880dd3.chunk.js.map",
     "index.html": "/animaal/index.html",
-    "precache-manifest.339cb979c096ba825089ddf44c594aab.js": "/animaal/precache-manifest.339cb979c096ba825089ddf44c594aab.js",
+    "precache-manifest.372778be15df1aa63c69496121446174.js": "/animaal/precache-manifest.372778be15df1aa63c69496121446174.js",
     "service-worker.js": "/animaal/service-worker.js",
     "static/css/main.50b80ad5.chunk.css.map": "/animaal/static/css/main.50b80ad5.chunk.css.map"
   }
